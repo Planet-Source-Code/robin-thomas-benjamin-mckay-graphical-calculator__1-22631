@@ -1,0 +1,123 @@
+Thank you for choosing to use this program -- please vote for me if you like
+this program and vote for me at Planet-Source-Code. I also have some other
+proggies on PSC under Visual Basic -- Check out Derby now. Tell me what you
+think. So far, feedback has been positive! Many thanks for using this program
+and I hope to see some of your programs on PSC soon. If you have any problems
+with this program, please email me at:
+
+ian@imckay.fsnet.co.uk
+
+
+
+
+Calculator 1.0
+**************
+
+
+With Calculator 1.0, all bugs I have found have been
+fixed.
+
+
+Calculator 1.1
+**************
+
+Calculator 1.1 has been fixed now -- added a few
+bits more code to the "Not" function. I found this
+error when I did debug Calculator -- now fixed. 
+
+New error raised by PSC member Chris Selbach: 
+
+"Division by zero error is not handled." 
+
+
+Thank you to Chris for raising this error -- as of
+now, Calculator 1.2 has been developed. In 1.2, I
+hope to have this bug fixed. 
+
+
+Calculator 1.2
+**************
+
+The Division By Zero error has now been fixed --
+thank you for reporting that error, Chris. 
+
+
+What's new in 1.2?
+******************
+
+* The Division By Zero error has now been fixed.
+* Added a new timer control to support this
+
+
+What's new in 1.3?
+******************
+
+* Fixed the division by zero error permanently
+* Added a bit more functionality to calculator
+* The features message box has been updated to support division by zero
+* Added a new "0." so that nought point numbers are supported and do
+  not clash with "Divide By Zero" errors. 
+
+
+Calculator Version 1.4
+**********************
+
+* Added Sin, Cos and Tan
+* Added a separate bit to work out fractions 
+* Sorted out some of the code to lessen the use of Input Boxes
+
+NB: On some of the Sin, Cos and Tan calculations, you may see a -02 at the
+end. I am working to fix this right now. I just thought I would mention
+this to give everyone piece of mind.
+
+However, if you find any other errors that I have not accounted for, please
+report them A.S.A.P. so that I can fix them.
+
+
+What's coming up in future versions?
+************************************
+
+Hopefully, Sin/Cos/Tan will be handled in 1.4. I shall
+keep releasing minor versions in the future if bugs
+are found. I need your support to make Calculator very
+good.
+
+
+If you find any more errors in Calculator -- they
+shall be fixed in future versions. Thank you for
+your support over Calculator. I cannot say how
+much your support has helped me over the past few
+days. If anyone knows how to work out Sin, Cos or
+Tan, please let me know. My email is:
+
+ian@imckay.fsnet.co.uk 
+
+Or you can fax me at:
+
+0870-136-4618
+
+
+Any ideas that you have for the program that you would
+like to share with me, please email or fax them to me.
+I will consider all ideas before I incorporate them
+into the program. I have tried to make this calculator 
+as realistic as possible. 
+
+Votes So Far
+============
+
+
+Chris Selbach    ****
+
+
+Comment: This is a good program -- however Division By
+Zero needs to be fixed. 
+
+
+One Final Thank You
+===================
+
+Many thanks for supporting the development and the
+deployment of Calculator -- It really does mean a lot
+to me. If you have any programs you'd like me to have
+a look at, please let me know. 
